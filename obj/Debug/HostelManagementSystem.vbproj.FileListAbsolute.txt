@@ -1,0 +1,58 @@
+c:\users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Delete.resources
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Employees.resources
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Form1.resources
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Home.resources
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Resources.resources
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.NewAdmission.resources
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Report.resources
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Update1.resources
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.xml
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\bin\Debug\hostel.mdf
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\bin\Debug\hostel_log.ldf
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.exe
+C:\Users\dell\documents\visual studio 2015\Projects\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.pdb
+D:\HostelManagementSystem\HostelManagementSystem\bin\Debug\hostel.mdf
+D:\HostelManagementSystem\HostelManagementSystem\bin\Debug\hostel_log.ldf
+D:\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+D:\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+D:\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+D:\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.vbprojAssemblyReference.cache
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Delete.resources
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Employees.resources
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Form1.resources
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Home.resources
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Resources.resources
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.NewAdmission.resources
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Report.resources
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Update1.resources
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.vbproj.GenerateResource.cache
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.vbproj.CoreCompileInputs.cache
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.exe
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.xml
+D:\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.pdb
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\bin\Debug\hostel.mdf
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\bin\Debug\hostel_log.ldf
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.vbprojAssemblyReference.cache
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Delete.resources
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Employees.resources
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Form1.resources
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Home.resources
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Resources.resources
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.NewAdmission.resources
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Update1.resources
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.vbproj.GenerateResource.cache
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.exe
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.xml
+C:\Users\R N JHA\Desktop\HostelManagementSystem\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.pdb
